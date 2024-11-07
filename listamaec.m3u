@@ -755,8 +755,6 @@ http://mylive.pro:8080/live/apr46257389/55136126/892a4d25-b463-4361-88ba-a31c83f
 http://mylive.pro:8080/live/apr46257389/55136126/50ded525-a318-47ae-9117-1b7f81122bc1.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| ODISEA ᵁᴴᴰ" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="|ES| SPAIN ULTRA ᵁᴴᴰ",|ES| ODISEA ᵁᴴᴰ
 http://mylive.pro:8080/live/apr46257389/55136126/9c49b361-8daf-4fc6-a5e2-c584b309fcc2.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ODISEA ULTRA ᵁᴴᴰ" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="4K CHANNELS",|ES| ODISEA ULTRA ᵁᴴᴰ
-http://mylive.pro:8080/live/apr46257389/55136126/95cf0480-f159-42bf-ad4a-f789ee6330be.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| 24 horas UHD" tvg-logo="http://138.199.27.237:8080/SPAIN/PARAMOUNTCHANNEL.png" group-title="ES CINEMA",|ES| 24 horas UHD
 http://mylive.pro:8080/live/apr46257389/55136126/230d3403-23c1-481f-80c7-e9d31c3bd6b1.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| PARAMOUNT CHANNEL" tvg-logo="https://seeklogo.com/images/P/paramount-logo-D0604AF7D3-seeklogo.com.png" group-title="ES CINEMA",|ES| PARAMOUNT CHANNEL
@@ -1275,8 +1273,6 @@ http://mylive.pro:8080/live/apr46257389/55136126/c8f782da-ae91-46f4-9358-b7f184a
 http://mylive.pro:8080/live/apr46257389/55136126/81405c5c-4592-4512-86e7-528256df5713.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| ETB 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/DMTVBOXOFFICE.png" group-title="ES TDT/AUTONOMICOS",|ES| ETB 3 ᵁᴴᴰ
 http://mylive.pro:8080/live/apr46257389/55136126/82f21ed5-abd2-4b94-8c6c-e46df7833e0a.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| FIGHT TIME HD" tvg-logo="" group-title="ES CANALES BOXEO",|ES| FIGHT TIME HD
-http://mylive.pro:8080/live/apr46257389/55136126/afb79a95-a2c8-4a4b-af1d-ce3a9c3566b0.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| FTV HD" tvg-logo="http://138.199.27.237:8080/FRANCE/DMTVBOXOFFICE.png" group-title="ES Canales Entertainment",|ES| FTV HD
 http://mylive.pro:8080/live/apr46257389/55136126/e68aa6d6-6ff8-4bab-abda-83025aaf5155.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| GLOBAL TELENOVELAS HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-pt-2678.png" group-title="ES Canales Entertainment",|ES| GLOBAL TELENOVELAS HD
@@ -1335,8 +1331,6 @@ http://mylive.pro:8080/live/apr46257389/55136126/164d75a0-cd92-4f29-a0ae-2fbedfc
 http://mylive.pro:8080/live/apr46257389/55136126/1d3e5b19-571b-420b-b73f-dd8a930ee7e2.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| ETB 4" tvg-logo="http://138.199.27.237:8080/FRANCE/AB1HD.png" group-title="ES TDT/AUTONOMICOS",|ES| ETB 4
 http://mylive.pro:8080/live/apr46257389/55136126/224a571b-e9dc-4475-9280-6f9036affe53.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| FIGHT TIME" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV5MONDE.png" group-title="ES CANALES BOXEO",|ES| FIGHT TIME
-http://mylive.pro:8080/live/apr46257389/55136126/23439138-bdf6-491e-959e-b66b3ac4a350.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| FTV" tvg-logo="" group-title="ES Canales Entertainment",|ES| FTV
 http://mylive.pro:8080/live/apr46257389/55136126/2d17464b-f03a-4b0b-99ff-e841c6b01bd0.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| GLOBAL TELENOVELAS" tvg-logo="http://138.199.27.237:8080/0tv_logo/5.png" group-title="ES Canales Entertainment",|ES| GLOBAL TELENOVELAS
@@ -1387,14 +1381,6 @@ http://mylive.pro:8080/live/apr46257389/55136126/8002e80b-fdaa-47ed-801f-57b262e
 http://mylive.pro:8080/live/apr46257389/55136126/80240dfe-c010-4be4-9338-382d7fe22064.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| VEGAFIBRA TV TELECOLOR" tvg-logo="" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGAFIBRA TV TELECOLOR
 http://mylive.pro:8080/live/apr46257389/55136126/94eab48d-dfe6-451e-b9c7-0006ca63c3ad.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VEGA FIBRA TV HORADADA" tvg-logo="http://138.199.27.237:8080/0tv_logo/5091.png" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGA FIBRA TV HORADADA
-http://mylive.pro:8080/live/apr46257389/55136126/72a9ea77-36c9-460f-8524-9e1cd4e00741.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VEGAFIBRA TV BENEJUZAR" tvg-logo="" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGAFIBRA TV BENEJUZAR
-http://mylive.pro:8080/live/apr46257389/55136126/78e75abd-b797-4812-9a8b-044eafd8d517.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VEGAFIBRA TV COMERCAL 2" tvg-logo="" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGAFIBRA TV COMERCAL 2
-http://mylive.pro:8080/live/apr46257389/55136126/7c363df3-8296-41aa-b1b9-d319333acf50.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VEGAFIBRA TV GARMERS" tvg-logo="http://138.199.27.237:8080/0tv_logo/166.png" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGAFIBRA TV GARMERS
-http://mylive.pro:8080/live/apr46257389/55136126/7f59d6b1-4ec2-4bf1-a0d5-93d530a22060.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| VELEVISA UHD" tvg-logo="" group-title="ES VEGA FIBRA TV AVATEL",|ES| VELEVISA UHD
 http://mylive.pro:8080/live/apr46257389/55136126/bf999682-4ca9-4eee-b791-a8d996267de0.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| VEGA FIBRA TV HORADADA HD" tvg-logo="" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGA FIBRA TV HORADADA HD
@@ -1417,18 +1403,6 @@ http://mylive.pro:8080/live/apr46257389/55136126/e2aa4894-32d5-4e7b-8e4f-93dc9e8
 http://mylive.pro:8080/live/apr46257389/55136126/a9ad91f7-5bff-448e-b4c9-564245a74946.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| VEGAFIBRA TV BENEJUZAR UHD" tvg-logo="" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGAFIBRA TV BENEJUZAR UHD
 http://mylive.pro:8080/live/apr46257389/55136126/a8d2c386-5775-4d65-9d50-2618fc6a53d1.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VEGAFIBRA TV COMARCAL AVATEL UHD" tvg-logo="" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGAFIBRA TV COMARCAL AVATEL UHD
-http://mylive.pro:8080/live/apr46257389/55136126/2cc9eab5-cbf4-4820-8caa-2646cff0bd8a.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VEGAFIBRA TV COMERCAL 2 AVATEL UHD" tvg-logo="" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGAFIBRA TV COMERCAL 2 AVATEL UHD
-http://mylive.pro:8080/live/apr46257389/55136126/5485a50f-5af1-46d3-942c-870e6de0dde0.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VEGAFIBRA TV GARMERS UHD" tvg-logo="" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGAFIBRA TV GARMERS UHD
-http://mylive.pro:8080/live/apr46257389/55136126/32ac9def-fe7a-4a84-8f13-df7354ee6420.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VEGAFIBRA TV LOS DOLORE UHD" tvg-logo="" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGAFIBRA TV LOS DOLORE UHD
-http://mylive.pro:8080/live/apr46257389/55136126/360c52ec-517b-4565-8ea1-f0d57f2f8ad7.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VEGAFIBRA TV SAN MIGUEL UHD" tvg-logo="" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGAFIBRA TV SAN MIGUEL UHD
-http://mylive.pro:8080/live/apr46257389/55136126/6f8e036f-27f6-42e4-9c99-fae9b77e490c.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VEGAFIBRA TV TELECOLOR UHD" tvg-logo="" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGAFIBRA TV TELECOLOR UHD
-http://mylive.pro:8080/live/apr46257389/55136126/7fd040d5-2578-437f-a539-db014dbef2e9.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| Dreamworks" tvg-logo="http://138.199.27.237:8080/SPAIN/DREAMWORKS.png" group-title="ES NIÑOS",|ES| Dreamworks
 http://mylive.pro:8080/live/apr46257389/55136126/530814a8-528c-45fd-8ddb-322616f2eb8e.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| Decasa" tvg-logo="http://138.199.27.237:8080/SPAIN/DECASA.png" group-title="ES DOCUMENTALES",|ES| Decasa
@@ -1475,8 +1449,6 @@ http://mylive.pro:8080/live/apr46257389/55136126/81296193-48ad-4b12-8087-e9e79e5
 http://mylive.pro:8080/live/apr46257389/55136126/0bebff87-96e5-440b-996b-602d536aaecb.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| TVG UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="|ES| SPAIN ULTRA ᵁᴴᴰ",|ES| TVG UHD
 http://mylive.pro:8080/live/apr46257389/55136126/94771e38-97b3-41e3-ba91-10fa9c2fdd7d.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VEGAFIBRA TV COMARCAL" tvg-logo="http://138.199.27.237:8080/0tv_logo/58.png" group-title="ES VEGA FIBRA TV AVATEL",|ES| VEGAFIBRA TV COMARCAL
-http://mylive.pro:8080/live/apr46257389/55136126/7ab38149-b0a1-4bca-8414-9adf9754db61.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| TV3 CAT HD" tvg-logo="http://138.199.27.237:8080/SPAIN/TV3%20CATALAN.png" group-title="ES TDT/AUTONOMICOS",|ES| TV3 CAT HD
 http://mylive.pro:8080/live/apr46257389/55136126/d5be7b29-ec62-4655-9c21-d53b1dc2b14a.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| Fox sports 1 MX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="ES DAZN FEME SOLO EVENTOS",|ES| Fox sports 1 MX HD
@@ -1495,8 +1467,6 @@ http://mylive.pro:8080/live/apr46257389/55136126/b8467ad9-7d87-4571-952e-37374b4
 http://mylive.pro:8080/live/apr46257389/55136126/b5414806-5f2a-4488-9eea-a037b3fe9bb5.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| TVG Cativ@s" tvg-logo="" group-title="ES NIÑOS",|ES| TVG Cativ@s
 http://mylive.pro:8080/live/apr46257389/55136126/bd714dde-4921-4809-8524-3d1055504af9.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CGTN-ESPANOL" tvg-logo="" group-title="CHINA",|ES| CGTN-ESPANOL
-http://mylive.pro:8080/live/apr46257389/55136126/6ddc78bc-ea6f-43a8-96b2-4982e2286632.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| DARK" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="ES CINEMA",|ES| DARK
 http://mylive.pro:8080/live/apr46257389/55136126/f8cb40fe-2332-405b-8582-ef35ef23bfe0.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| La resistencia" tvg-logo="http://138.199.27.237:8080/SPAIN/La Resistencia 24.png" group-title="ES CINEMA",|ES| La resistencia
