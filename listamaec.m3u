@@ -1,8 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24h FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",24h FHD TDT
-http://k4.oct29freego.top:80/live/apr46257389/55136126/1583cc74-953e-4292-83cd-e0137553add9.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",LA 1 FHD TDT
+http://k4.oct29freego.top:80/live/apr46257389/55136126/4014e9aa-b5a6-4d23-ba63-c8b74a2fa97d.ts
 #EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",LA 2 FHD TDT
 http://k4.oct29freego.top:80/live/apr46257389/55136126/1890b3fe-216a-4c4c-a638-2e3eabb83dbf.ts
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",Antena 3 FHD TDT
+http://k4.oct29freego.top:80/live/apr46257389/55136126/54fc143d-6567-4a86-a191-e9ebc23a647e.ts
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="Cuatro FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",Cuatro FHD TDT
+http://k4.oct29freego.top:80/live/apr46257389/55136126/b847b2f0-9d54-46f0-bc10-7c6a1c7ac7da.ts
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="Telecinco FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",Telecinco FHD TDT
+http://k4.oct29freego.top:80/live/apr46257389/55136126/9a4e1ae9-3362-4937-a1a1-875b886808b9.ts
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",La Sexta FHD TDT
+http://k4.oct29freego.top:80/live/apr46257389/55136126/8234bde6-db66-4f57-9187-07261d5da780.ts
 #EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",Divinity FHD TDT
 http://k4.oct29freego.top:80/live/apr46257389/55136126/26343612-bea3-42a8-bf23-2b41cbbebf08.ts
 #EXTINF:-1 tvg-id="Clan" tvg-name="Clan FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| INFANTILES",Clan FHD TDT
@@ -15,32 +23,24 @@ http://k4.oct29freego.top:80/live/apr46257389/55136126/31a611bc-ec30-4925-a122-a
 http://k4.oct29freego.top:80/live/apr46257389/55136126/38a7a428-141e-44b5-b04d-831c4b3e9118.ts
 #EXTINF:-1 tvg-id="Energy" tvg-name="Energy FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",Energy FHD TDT
 http://k4.oct29freego.top:80/live/apr46257389/55136126/3992594e-54cb-41d4-bcb8-43ed56073393.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",24h FHD TDT
+http://k4.oct29freego.top:80/live/apr46257389/55136126/1583cc74-953e-4292-83cd-e0137553add9.ts
 #EXTINF:-1 tvg-id="" tvg-name="FDF FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",FDF FHD TDT
 http://k4.oct29freego.top:80/live/apr46257389/55136126/3ca96a3d-68a3-420d-bcda-c055d6ded8e0.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",LA 1 FHD TDT
-http://k4.oct29freego.top:80/live/apr46257389/55136126/4014e9aa-b5a6-4d23-ba63-c8b74a2fa97d.ts
 #EXTINF:-1 tvg-id="" tvg-name="A3Series FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",A3Series FHD TDT
 http://k4.oct29freego.top:80/live/apr46257389/55136126/42c0ca98-b7ee-45b9-96ad-dc50e5831454.ts
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3 FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",Antena 3 FHD TDT
-http://k4.oct29freego.top:80/live/apr46257389/55136126/54fc143d-6567-4a86-a191-e9ebc23a647e.ts
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DEPORTES",Teledeporte FHD TDT
 http://k4.oct29freego.top:80/live/apr46257389/55136126/6b8b9388-64c9-4abe-a89f-f22c8fd6a5bf.ts
 #EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",TRECE FHD TDT
 http://k4.oct29freego.top:80/live/apr46257389/55136126/6f4cbd7e-5e16-4431-8298-d16215b994e1.ts
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",La Sexta FHD TDT
-http://k4.oct29freego.top:80/live/apr46257389/55136126/8234bde6-db66-4f57-9187-07261d5da780.ts
 #EXTINF:-1 tvg-id="" tvg-name="BeMad tv FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",BeMad tv FHD TDT
 http://k4.oct29freego.top:80/live/apr46257389/55136126/8405aa53-a93c-44fc-bce0-ce1d1d3a96db.ts
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ CINE Y SERIES",PARAMOUNT NETWORK FHD TDT
 http://k4.oct29freego.top:80/live/apr46257389/55136126/8d942244-e91a-4fb5-822b-bb82a3c18eee.ts
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="Telecinco FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",Telecinco FHD TDT
-http://k4.oct29freego.top:80/live/apr46257389/55136126/9a4e1ae9-3362-4937-a1a1-875b886808b9.ts
 #EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",BOM FHD TDT
 http://k4.oct29freego.top:80/live/apr46257389/55136126/a2299a67-7640-4efc-a3a3-1877e87cd6f6.ts
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",DMAX FHD TDT
 http://k4.oct29freego.top:80/live/apr46257389/55136126/a88fa080-25dc-49d7-a568-ddb8ff4819db.ts
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="Cuatro FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",Cuatro FHD TDT
-http://k4.oct29freego.top:80/live/apr46257389/55136126/b847b2f0-9d54-46f0-bc10-7c6a1c7ac7da.ts
 #EXTINF:-1 tvg-id="Nova" tvg-name="Nova FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",Nova FHD TDT
 http://k4.oct29freego.top:80/live/apr46257389/55136126/c3b1ffd1-f5f3-4452-bbf2-f3637b826d74.ts
 #EXTINF:-1 tvg-id="Canal Sur 2" tvg-name="CanalSur2 FHD TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| TDT AUTONOMICA",CanalSur2 FHD TDT
@@ -127,38 +127,38 @@ http://k4.oct29freego.top:80/live/apr46257389/55136126/b9912fce-d42f-4029-8f41-b
 http://k4.oct29freego.top:80/live/apr46257389/55136126/e54b2637-b085-46cd-95c1-482e3ea9baa3.ts
 #EXTINF:-1 tvg-id="LaLiga TV BAR 2" tvg-name="M+ LaLiga TV Bar FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga TV Bar FHD
 http://k4.oct29freego.top:80/live/apr46257389/55136126/134e9535-85bc-4a46-a756-ec33232256a8.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 FHD (Solo Eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 2 FHD (Solo Eventos)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/1507d191-1ba0-437c-918f-deea50a49cd5.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD (SAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga FHD (SAT)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/26801b75-55e3-4abf-a7a1-dad4393d95c9.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4 FHD (Orange TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 4 FHD (Orange TV)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/6072be2f-c0de-42db-9473-8156bff13dce.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 FHD (Orange TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 2 FHD (Orange TV)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/63afad4e-e953-4304-8c87-705105cd17f9.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 4 FHD
-http://k4.oct29freego.top:80/live/apr46257389/55136126/68a420ad-cfd5-463e-bcc9-5510d438eaec.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD OP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga FHD OP3
-http://k4.oct29freego.top:80/live/apr46257389/55136126/87fa2a1b-5ff7-4daa-9ba9-b78b658ca2d3.ts
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga FHD
-http://k4.oct29freego.top:80/live/apr46257389/55136126/889c8eee-fe93-40dd-95a6-2f3e745daefd.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 7 FHD (Solo Eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 7 FHD (Solo Eventos)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/d3c08022-3d96-4e6e-83a2-2ad4be4d8d7d.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 6 FHD (Solo Eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 6 FHD (Solo Eventos)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/d94de6f4-1790-463d-bc13-77eb03016397.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga FHD OP1
-http://k4.oct29freego.top:80/live/apr46257389/55136126/d99b5ec2-1ab2-4eaa-bf84-b63328e50668.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 3 FHD
-http://k4.oct29freego.top:80/live/apr46257389/55136126/e2d5c60b-dd46-4749-8e6b-d0c37d30f977.ts
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="LaLiga TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",LaLiga TV FHD
 http://k4.oct29freego.top:80/live/apr46257389/55136126/e9771be2-92aa-42f4-990d-92fe4adec5c1.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 FHD (Orange TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 3 FHD (Orange TV)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/f0c4444a-aa5e-489b-838f-a1a5a6997236.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga FHD
+http://k4.oct29freego.top:80/live/apr46257389/55136126/889c8eee-fe93-40dd-95a6-2f3e745daefd.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD (Orange TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga FHD (Orange TV)
 http://k4.oct29freego.top:80/live/apr46257389/55136126/f4060343-c95a-4067-97b2-987f019dc4ad.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD (SAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga FHD (SAT)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/26801b75-55e3-4abf-a7a1-dad4393d95c9.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga FHD OP1
+http://k4.oct29freego.top:80/live/apr46257389/55136126/d99b5ec2-1ab2-4eaa-bf84-b63328e50668.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga FHD OP2
 http://k4.oct29freego.top:80/live/apr46257389/55136126/f623cc97-4b6e-49e7-9b21-bb678f2dcb7d.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD OP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga FHD OP3
+http://k4.oct29freego.top:80/live/apr46257389/55136126/87fa2a1b-5ff7-4daa-9ba9-b78b658ca2d3.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 FHD (Solo Eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 2 FHD (Solo Eventos)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/1507d191-1ba0-437c-918f-deea50a49cd5.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 FHD (Orange TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 2 FHD (Orange TV)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/63afad4e-e953-4304-8c87-705105cd17f9.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 3 FHD
+http://k4.oct29freego.top:80/live/apr46257389/55136126/e2d5c60b-dd46-4749-8e6b-d0c37d30f977.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 FHD (Solo Eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 3 FHD (Solo Eventos)
 http://k4.oct29freego.top:80/live/apr46257389/55136126/fc49dd1c-0e5f-48a1-97ef-4c6da87f14bf.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 FHD (Orange TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 3 FHD (Orange TV)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/f0c4444a-aa5e-489b-838f-a1a5a6997236.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4 FHD (Orange TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 4 FHD (Orange TV)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/6072be2f-c0de-42db-9473-8156bff13dce.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 4 FHD
+http://k4.oct29freego.top:80/live/apr46257389/55136126/68a420ad-cfd5-463e-bcc9-5510d438eaec.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 6 FHD (Solo Eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 6 FHD (Solo Eventos)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/d94de6f4-1790-463d-bc13-77eb03016397.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 7 FHD (Solo Eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ LIGA TV",M+ LaLiga 7 FHD (Solo Eventos)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/d3c08022-3d96-4e6e-83a2-2ad4be4d8d7d.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ Orgullo LGTBIQ+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ CINE Y SERIES",M+ Orgullo LGTBIQ+ FHD
 http://k4.oct29freego.top:80/live/apr46257389/55136126/0a2dc266-1895-4058-aabd-d3261c4221a3.ts
 #EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="M+ Cine FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ CINE Y SERIES",M+ Cine FHD
@@ -217,48 +217,48 @@ http://k4.oct29freego.top:80/live/apr46257389/55136126/eb503979-de87-4d51-a355-0
 http://k4.oct29freego.top:80/live/apr46257389/55136126/ec93aecd-ba59-4dde-9ee4-d7c45a91122f.ts
 #EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ Comedia FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ CINE Y SERIES",M+ Comedia FHD
 http://k4.oct29freego.top:80/live/apr46257389/55136126/fac7a97a-f9e8-40c8-9cf1-c5cdc2fff750.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn F1 FHD (50 FPS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn F1 FHD (50 FPS)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/0bedf2e1-9602-4b31-8bc2-19f3855e6952.ts
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="M+ Dazn LaLiga 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn LaLiga 1 FHD
 http://k4.oct29freego.top:80/live/apr46257389/55136126/1851b193-fd5a-4ff4-bd30-dbb4d806ef45.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 3 FHD (sat)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 3 FHD (sat)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/2c39520f-6f10-42cc-b966-173405a79ed2.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 2 FHD (sat)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 2 FHD (sat)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/3d8c2975-53db-40a0-9bca-67ad17f8fdd0.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 1 FHD (sat)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 1 FHD (sat)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/3f8a6c86-af04-4ac2-8bbf-ae72cc54867a.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 3 FFHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 3 FFHD
-http://k4.oct29freego.top:80/live/apr46257389/55136126/48992e1e-768e-4c80-98d1-bf27d5167fc5.ts
-#EXTINF:-1 tvg-id="DAZN F1 BAR" tvg-name="M+ Dazn 1 Bar FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 1 Bar FHD
-http://k4.oct29freego.top:80/live/apr46257389/55136126/5d39d495-30f2-4d49-81e2-c2c3974d809b.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 2 FHD
-http://k4.oct29freego.top:80/live/apr46257389/55136126/63ac7613-51fa-4852-b240-65d4586ead9f.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn F1 FHD (Fibra AMZ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn F1 FHD (Fibra AMZ)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/66f95301-c879-47a1-b211-fc9fb7729db7.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 4 FFHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 4 FFHD
-http://k4.oct29freego.top:80/live/apr46257389/55136126/68084d4c-ed5d-4393-b636-6ee8799959a6.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 1 FHD
-http://k4.oct29freego.top:80/live/apr46257389/55136126/78edbdae-4b4a-431e-83e0-ff4a429b92d2.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 1 FHD (50 FPS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 1 FHD (50 FPS)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/8a2c9bbf-f260-4fe2-9020-790625a567ee.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 2 FHD (50 FPS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 2 FHD (50 FPS)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/8f20311e-3b8c-4fb5-9afa-3aa22dbe6aba.ts
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="M+ Dazn LaLiga 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn LaLiga 2 FHD
-http://k4.oct29freego.top:80/live/apr46257389/55136126/91713846-4569-4c1a-960a-a916a58e4f3f.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ Dazn LaLiga 1 FHD (50 FPS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn LaLiga 1 FHD (50 FPS)
 http://k4.oct29freego.top:80/live/apr46257389/55136126/954a5342-a544-43bd-bb4d-30ede8c6330d.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ DAZN LaLiga 1 FHD (AMZON)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ DAZN LaLiga 1 FHD (AMZON)
 http://k4.oct29freego.top:80/live/apr46257389/55136126/9aec7af3-e1cc-4d83-839f-e9ce02d006c6.ts
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",Onetoro FHD
-http://k4.oct29freego.top:80/live/apr46257389/55136126/a9ed2aab-2484-41d5-b77c-c3691e926046.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn F1 FHD
-http://k4.oct29freego.top:80/live/apr46257389/55136126/ba79b189-90cc-4860-b911-370e8b0e242f.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 1 FHD (Fibra AMZ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 1 FHD (Fibra AMZ)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/cd24ba77-9b58-446b-912a-31eedcba761f.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 4 FHD (sat)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 4 FHD (sat)
-http://k4.oct29freego.top:80/live/apr46257389/55136126/efc7bbb5-bd5d-4ac0-801a-6261053f5155.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="M+ Dazn LaLiga 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn LaLiga 2 FHD
+http://k4.oct29freego.top:80/live/apr46257389/55136126/91713846-4569-4c1a-960a-a916a58e4f3f.ts
+#EXTINF:-1 tvg-id="DAZN F1 BAR" tvg-name="M+ Dazn 1 Bar FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 1 Bar FHD
+http://k4.oct29freego.top:80/live/apr46257389/55136126/5d39d495-30f2-4d49-81e2-c2c3974d809b.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 2 Bar FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 2 Bar FHD
 http://k4.oct29freego.top:80/live/apr46257389/55136126/f9171db8-deb9-446d-bea8-7f730f614ebf.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 1 FHD
+http://k4.oct29freego.top:80/live/apr46257389/55136126/78edbdae-4b4a-431e-83e0-ff4a429b92d2.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 1 FHD (sat)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 1 FHD (sat)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/3f8a6c86-af04-4ac2-8bbf-ae72cc54867a.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 1 FHD (Fibra AMZ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 1 FHD (Fibra AMZ)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/cd24ba77-9b58-446b-912a-31eedcba761f.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 1 FHD (50 FPS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 1 FHD (50 FPS)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/8a2c9bbf-f260-4fe2-9020-790625a567ee.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 2 FHD (50 FPS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 2 FHD (50 FPS)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/8f20311e-3b8c-4fb5-9afa-3aa22dbe6aba.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 2 FHD
+http://k4.oct29freego.top:80/live/apr46257389/55136126/63ac7613-51fa-4852-b240-65d4586ead9f.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 2 FHD (sat)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 2 FHD (sat)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/3d8c2975-53db-40a0-9bca-67ad17f8fdd0.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 3 FHD (sat)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 3 FHD (sat)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/2c39520f-6f10-42cc-b966-173405a79ed2.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 3 FFHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 3 FFHD
+http://k4.oct29freego.top:80/live/apr46257389/55136126/48992e1e-768e-4c80-98d1-bf27d5167fc5.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 4 FHD (sat)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 4 FHD (sat)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/efc7bbb5-bd5d-4ac0-801a-6261053f5155.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn 4 FFHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn 4 FFHD
+http://k4.oct29freego.top:80/live/apr46257389/55136126/68084d4c-ed5d-4393-b636-6ee8799959a6.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn F1 FHD
+http://k4.oct29freego.top:80/live/apr46257389/55136126/ba79b189-90cc-4860-b911-370e8b0e242f.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn F1 FHD (Fibra AMZ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn F1 FHD (Fibra AMZ)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/66f95301-c879-47a1-b211-fc9fb7729db7.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Dazn F1 FHD (50 FPS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",M+ Dazn F1 FHD (50 FPS)
+http://k4.oct29freego.top:80/live/apr46257389/55136126/0bedf2e1-9602-4b31-8bc2-19f3855e6952.ts
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DAZN",Onetoro FHD
+http://k4.oct29freego.top:80/live/apr46257389/55136126/a9ed2aab-2484-41d5-b77c-c3691e926046.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sevilla FC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DEPORTES",Sevilla FC FHD
 http://k4.oct29freego.top:80/live/apr46257389/55136126/06bf053f-a186-4dbf-9464-5b6013ec88cd.ts
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DEPORTES",Eurosport 2 FHD
@@ -337,177 +337,177 @@ http://k4.oct29freego.top:80/live/apr46257389/55136126/dd7b0db1-8dc6-43bb-a0ec-b
 http://k4.oct29freego.top:80/live/apr46257389/55136126/fb669c39-23f7-46eb-b71e-61c185454620.ts
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ES| M+ DOCUMENTALES",Discovery Channel FHD
 http://k4.oct29freego.top:80/live/apr46257389/55136126/fc413aed-7a5c-400e-b3dc-9f78278d9e9c.ts
-#EXTINF:-1 tvg-id="" tvg-name="El Conde de Montecristo (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/r2PGzaGA7bgcuy6PX7nx0BfDYsK.jpg" group-title="",El Conde de Montecristo (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/566d0f5e-66ac-4735-b3c3-45e4e3c7f3d6.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wolfs (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/xT3CLqaix8CAhiuXmptJcxwCFBj.jpg" group-title="",Wolfs (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/3b1ad6d8-8b3c-45db-8864-35bdd9f5fab4.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin rastro (Boneyard) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/tF11hjC92KC9mpUAxZbqOyRGCZp.jpg" group-title="",Sin rastro (Boneyard) (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/512d5cf5-bb05-49cf-a663-f02af8f59775.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Misión en Taipei (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/mMXop0s2MFstyODZvRliy4yzZW6.jpg" group-title="",Misión en Taipei (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/3fb7954f-b5ee-4b60-a535-8095de358555.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invasión, insurrección (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/u7BbfoOND2qtKUslMbPhgHVuVFK.jpg" group-title="",Invasión, insurrección (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/f4a97925-1900-400b-8585-78eb99f67762.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arcadian (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/7hNyrggiI6bYydlLwa2fDsOdAyA.jpg" group-title="",Arcadian (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/5b67001d-bf33-40f4-bc8c-726af7d155a8.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Painter (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" group-title="",The Painter (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/ed32bb26-60ca-4ef5-b14e-828dbbb615b2.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thelma: La venganza nunca ha sido tan dulce (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/6yqkakHhGPJ2v0rHtWfiNSTTzUj.jpg" group-title="",Thelma: La venganza nunca ha sido tan dulce (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/1fa6e2ef-b962-4c9e-b957-f752b89864cb.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool y Lobezno (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/347cCxyMXy8WkcHfsfaPaugCyPA.jpg" group-title="",Deadpool y Lobezno (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/7f50880b-ec92-4877-9d8b-01d27bb625a2.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alienoid: Regreso al futuro (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/gifUSfE1jtylu2vPmDZJSZI46nA.jpg" group-title="",Alienoid: Regreso al futuro (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/7fdbe3a7-ff2b-4ea0-99d7-ab385d74d14c.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Borderlands (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/lCvW1MxNfnwB1MkwBYoYXi2SfGi.jpg" group-title="",Borderlands (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/c2e52d81-f7cd-4d32-acf6-b344b5852eca.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wanted Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/cOH1ejWdBWgn1bzv0jsnZ2fAUWG.jpg" group-title="",Wanted Man (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/355ad6d1-f437-4965-a962-85ebbcb84adc.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Libre (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/thW4P7HLSxpb0JiEqfIJKT67Tew.jpg" group-title="",Libre (2024)
-http://k4.oct29freego.top:80/movie/apr46257389/55136126/8dfd5a7b-aff2-4f4f-88e6-ad9f3a526696.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1992 (2024)" tvg-logo="" group-title="",1992 (2024)
+#EXTINF:-1 tvg-id="" tvg-name="1992 (2024)" tvg-logo="" group-title="ES 2024",1992 (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/9b14282f-919b-4a7e-9ce3-3aeca976f06e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A fondo (One Fast Move)" tvg-logo="" group-title="",A fondo (One Fast Move)
+#EXTINF:-1 tvg-id="" tvg-name="El Conde de Montecristo (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/r2PGzaGA7bgcuy6PX7nx0BfDYsK.jpg" group-title="ES 2024",El Conde de Montecristo (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/566d0f5e-66ac-4735-b3c3-45e4e3c7f3d6.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wolfs (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/xT3CLqaix8CAhiuXmptJcxwCFBj.jpg" group-title="ES 2024",Wolfs (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/3b1ad6d8-8b3c-45db-8864-35bdd9f5fab4.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin rastro (Boneyard) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/tF11hjC92KC9mpUAxZbqOyRGCZp.jpg" group-title="ES 2024",Sin rastro (Boneyard) (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/512d5cf5-bb05-49cf-a663-f02af8f59775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misión en Taipei (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/mMXop0s2MFstyODZvRliy4yzZW6.jpg" group-title="ES 2024",Misión en Taipei (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/3fb7954f-b5ee-4b60-a535-8095de358555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invasión, insurrección (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/u7BbfoOND2qtKUslMbPhgHVuVFK.jpg" group-title="ES 2024",Invasión, insurrección (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/f4a97925-1900-400b-8585-78eb99f67762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arcadian (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/7hNyrggiI6bYydlLwa2fDsOdAyA.jpg" group-title="ES 2024",Arcadian (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/5b67001d-bf33-40f4-bc8c-726af7d155a8.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Painter (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" group-title="ES 2024",The Painter (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/ed32bb26-60ca-4ef5-b14e-828dbbb615b2.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thelma: La venganza nunca ha sido tan dulce (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/6yqkakHhGPJ2v0rHtWfiNSTTzUj.jpg" group-title="ES 2024",Thelma: La venganza nunca ha sido tan dulce (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/1fa6e2ef-b962-4c9e-b957-f752b89864cb.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool y Lobezno (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/347cCxyMXy8WkcHfsfaPaugCyPA.jpg" group-title="ES 2024",Deadpool y Lobezno (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/7f50880b-ec92-4877-9d8b-01d27bb625a2.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alienoid: Regreso al futuro (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/gifUSfE1jtylu2vPmDZJSZI46nA.jpg" group-title="ES 2024",Alienoid: Regreso al futuro (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/7fdbe3a7-ff2b-4ea0-99d7-ab385d74d14c.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Borderlands (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/lCvW1MxNfnwB1MkwBYoYXi2SfGi.jpg" group-title="ES 2024",Borderlands (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/c2e52d81-f7cd-4d32-acf6-b344b5852eca.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wanted Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/cOH1ejWdBWgn1bzv0jsnZ2fAUWG.jpg" group-title="ES 2024",Wanted Man (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/355ad6d1-f437-4965-a962-85ebbcb84adc.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Libre (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/thW4P7HLSxpb0JiEqfIJKT67Tew.jpg" group-title="ES 2024",Libre (2024)
+http://k4.oct29freego.top:80/movie/apr46257389/55136126/8dfd5a7b-aff2-4f4f-88e6-ad9f3a526696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A fondo (One Fast Move)" tvg-logo="" group-title="ES 2024",A fondo (One Fast Move)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/04e22cdb-a1a8-4917-b98d-7569609e1458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alien: Romulus (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg" group-title="",Alien: Romulus (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Romulus (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg" group-title="ES 2024",Alien: Romulus (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/17859d98-61c1-4677-a739-54e9e699db88.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anul Nou care n-a fost (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/slKPVbmvBp4HONl3Lf23jbW9pd9.jpg" group-title="",Anul Nou care n-a fost (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Anul Nou care n-a fost (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/slKPVbmvBp4HONl3Lf23jbW9pd9.jpg" group-title="ES 2024",Anul Nou care n-a fost (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/546cac97-1b79-4852-9005-20d676b16c60.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Back to Black (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/jvyh8wjpFNiv5Jg3axoHz7jpJYU.jpg" group-title="",Back to Black (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Back to Black (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/jvyh8wjpFNiv5Jg3axoHz7jpJYU.jpg" group-title="ES 2024",Back to Black (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/b817f57b-e643-4852-8fff-adbbae2727c4.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Between The Temples (2024)" tvg-logo="" group-title="",Between The Temples (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Between The Temples (2024)" tvg-logo="" group-title="ES 2024",Between The Temples (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/5d7f48ca-ce58-4ee2-8b1f-f22166774c8e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bitelchús Bitelchús (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/9utRLSrJ7Jn9YoeUJpeNPCWeI6t.jpg" group-title="",Bitelchús Bitelchús (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Bitelchús Bitelchús (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/9utRLSrJ7Jn9YoeUJpeNPCWeI6t.jpg" group-title="ES 2024",Bitelchús Bitelchús (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/71977d85-fb88-4555-bf4f-e040b2711ade.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Blitz (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/3RPufhE7QOLfX7zMjaesMt9jO99.jpg" group-title="",Blitz (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Blitz (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/3RPufhE7QOLfX7zMjaesMt9jO99.jpg" group-title="ES 2024",Blitz (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/c0d45851-c009-4c98-bf32-421cc22f91d7.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Caída libre (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/9EdGBz7SWudhGMlvucVebiczLrq.jpg" group-title="",Caída libre (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Caída libre (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/9EdGBz7SWudhGMlvucVebiczLrq.jpg" group-title="ES 2024",Caída libre (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/76929a5e-bbb2-4b3e-be93-0188f7298ecf.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cambio de bebes (Maybe Baby) (2023)" tvg-logo="" group-title="",Cambio de bebes (Maybe Baby) (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Cambio de bebes (Maybe Baby) (2023)" tvg-logo="" group-title="ES 2024",Cambio de bebes (Maybe Baby) (2023)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/f40c70fe-dac6-4403-a031-71c5d0753912.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crescent City (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg" group-title="",Crescent City (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Crescent City (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg" group-title="ES 2024",Crescent City (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/72a7616f-69a6-40e8-acf2-1b429de231fe.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cuerpo escombro (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/ob8mHJvE78kjbs7HtzdbeytNHXa.jpg" group-title="",Cuerpo escombro (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Cuerpo escombro (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/ob8mHJvE78kjbs7HtzdbeytNHXa.jpg" group-title="ES 2024",Cuerpo escombro (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/c8c53cbb-5f70-4868-a958-bd034743fd9e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Damaged (Herido) (2024)" tvg-logo="" group-title="",Damaged (Herido) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Damaged (Herido) (2024)" tvg-logo="" group-title="ES 2024",Damaged (Herido) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/fc6801c6-42b0-4df7-befe-04746e27c58c.mkv
-#EXTINF:-1 tvg-id="" tvg-name="De naturaleza violenta (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/28Zn1DNNzpDufLe6mWWgBDMj5uT.jpg" group-title="",De naturaleza violenta (2024)
+#EXTINF:-1 tvg-id="" tvg-name="De naturaleza violenta (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/28Zn1DNNzpDufLe6mWWgBDMj5uT.jpg" group-title="ES 2024",De naturaleza violenta (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/3eb55cb2-7b1b-43c5-85ef-80115b636863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Descansa en paz (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/k8fSPkP4IUyZrnmAB6oSxtFYuNR.jpg" group-title="",Descansa en paz (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Descansa en paz (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/k8fSPkP4IUyZrnmAB6oSxtFYuNR.jpg" group-title="ES 2024",Descansa en paz (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/c0b2cce9-1377-4410-958a-06dd5ceec820.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dinero sucio (The Clean Up Crew) (2024)" tvg-logo="" group-title="",Dinero sucio (The Clean Up Crew) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Dinero sucio (The Clean Up Crew) (2024)" tvg-logo="" group-title="ES 2024",Dinero sucio (The Clean Up Crew) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/a2e15c4a-aea6-43d2-a5dd-428fc1b2868e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Divorcio sin ataduras (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/2Xkdb7J3juzcLe8IrOheNkDgklZ.jpg" group-title="",Divorcio sin ataduras (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Divorcio sin ataduras (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/2Xkdb7J3juzcLe8IrOheNkDgklZ.jpg" group-title="ES 2024",Divorcio sin ataduras (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/1b6f1890-27e8-48d0-bcc1-1be85e953b2a.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bus de la vida (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/2XvZaOQpgXh6jWbyvuG9lTSHm7c.jpg" group-title="",El bus de la vida (2024)
+#EXTINF:-1 tvg-id="" tvg-name="El bus de la vida (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/2XvZaOQpgXh6jWbyvuG9lTSHm7c.jpg" group-title="ES 2024",El bus de la vida (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/9f342fa6-b7f3-4140-adfb-9baabafc39d6.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El cuervo (The Crow) (2024)" tvg-logo="" group-title="",El cuervo (The Crow) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="El cuervo (The Crow) (2024)" tvg-logo="" group-title="ES 2024",El cuervo (The Crow) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/db55a942-9479-4fb2-a3e2-d3eeff18cc2e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El exorcismo de Georgetown (The Exorcism) (2024)" tvg-logo="" group-title="",El exorcismo de Georgetown (The Exorcism) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="El exorcismo de Georgetown (The Exorcism) (2024)" tvg-logo="" group-title="ES 2024",El exorcismo de Georgetown (The Exorcism) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/3c02403f-aa3d-40de-8a0b-ae66819e632c.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El problema con Jessica (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/2I1IigQyR2P2SGxu1mK9j8bNced.jpg" group-title="",El problema con Jessica (2024)
+#EXTINF:-1 tvg-id="" tvg-name="El problema con Jessica (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/2I1IigQyR2P2SGxu1mK9j8bNced.jpg" group-title="ES 2024",El problema con Jessica (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/9eac1fa3-a9f7-421e-aa12-fed99a11bf93.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Emma y el jaguar negro (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/s8ynA37Ct6cWmO3UVgZCqfVm0TW.jpg" group-title="",Emma y el jaguar negro (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Emma y el jaguar negro (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/s8ynA37Ct6cWmO3UVgZCqfVm0TW.jpg" group-title="ES 2024",Emma y el jaguar negro (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/a2dfb21d-9a2e-47ab-a45e-f7f82dc7749e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En la Piel de Blanche Houellebecq (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/eAUHrVnu60cER6vOmfR9YPbgtOR.jpg" group-title="",En la Piel de Blanche Houellebecq (2024)
+#EXTINF:-1 tvg-id="" tvg-name="En la Piel de Blanche Houellebecq (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/eAUHrVnu60cER6vOmfR9YPbgtOR.jpg" group-title="ES 2024",En la Piel de Blanche Houellebecq (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/877a6c9e-1ffb-4f7b-bf9e-4d9d88c53043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harold y el lápiz mágico (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/1LRmVHwhH4bCyMHHgz3ZZdqu7lO.jpg" group-title="",Harold y el lápiz mágico (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Harold y el lápiz mágico (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/1LRmVHwhH4bCyMHHgz3ZZdqu7lO.jpg" group-title="ES 2024",Harold y el lápiz mágico (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/153c0606-6a77-43f0-8099-d2542b57dfc2.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hermanos (Brothers) (2024)" tvg-logo="" group-title="",Hermanos (Brothers) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Hermanos (Brothers) (2024)" tvg-logo="" group-title="ES 2024",Hermanos (Brothers) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/3ba9c1a0-778b-4eb5-a359-2bebbe5fb8fc.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Heroes al amanecer (Before Dawn) (2024)" tvg-logo="" group-title="",Heroes al amanecer (Before Dawn) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Heroes al amanecer (Before Dawn) (2024)" tvg-logo="" group-title="ES 2024",Heroes al amanecer (Before Dawn) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/f0fa82f2-0651-4b1c-b636-4f97d8a85e86.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invasion (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/mplNoEplbAhR8ElZWhK3si6oTD9.jpg" group-title="",Invasion (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Invasion (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/mplNoEplbAhR8ElZWhK3si6oTD9.jpg" group-title="ES 2024",Invasion (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/31d1283b-0eba-4853-9901-0afe008c7a0e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Joker: Folie à Deux (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/2yor0tcEi77qmkGjgVjhkwLEfIC.jpg" group-title="",Joker: Folie à Deux (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Joker: Folie à Deux (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/2yor0tcEi77qmkGjgVjhkwLEfIC.jpg" group-title="ES 2024",Joker: Folie à Deux (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/07c2ef5a-880f-45e3-b300-a921e530825d.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Justicia Artificial (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/CZBugvsGX0BtPnnP0NVFUt41OI.jpg" group-title="",Justicia Artificial (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Justicia Artificial (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/CZBugvsGX0BtPnnP0NVFUt41OI.jpg" group-title="ES 2024",Justicia Artificial (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/781cff2f-4396-4f23-9484-26902086e082.avi
-#EXTINF:-1 tvg-id="" tvg-name="Killer Heat (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/50C6VYZRQkAD0oYzCGWJvVcmGLK.jpg" group-title="",Killer Heat (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Killer Heat (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/50C6VYZRQkAD0oYzCGWJvVcmGLK.jpg" group-title="ES 2024",Killer Heat (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/f1574d8c-aeb4-4ab0-8c8e-b81adc80ddfc.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kinds of Kindness (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/xL5xWKJolKA6RoJ7yRxi8Jq2n9p.jpg" group-title="",Kinds of Kindness (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Kinds of Kindness (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/xL5xWKJolKA6RoJ7yRxi8Jq2n9p.jpg" group-title="ES 2024",Kinds of Kindness (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/16c29d7e-5872-4d6d-ba0a-81bfc644c121.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La casa de los susurros (House of Spoils) (2024)" tvg-logo="" group-title="",La casa de los susurros (House of Spoils) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="La casa de los susurros (House of Spoils) (2024)" tvg-logo="" group-title="ES 2024",La casa de los susurros (House of Spoils) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/4da9438c-81c7-4824-89a4-5212432d51a5.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La cueva azul (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/5zlbRu9X2FCSkDxV4ZhrPrJDgg8.jpg" group-title="",La cueva azul (2024)
+#EXTINF:-1 tvg-id="" tvg-name="La cueva azul (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/5zlbRu9X2FCSkDxV4ZhrPrJDgg8.jpg" group-title="ES 2024",La cueva azul (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/dc28d3bc-305f-4254-8bee-cdf5b4a4061e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ladrones con clase (Cash Out) (2024)" tvg-logo="" group-title="",Ladrones con clase (Cash Out) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Ladrones con clase (Cash Out) (2024)" tvg-logo="" group-title="ES 2024",Ladrones con clase (Cash Out) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/04f45dbb-8f83-426f-a27e-ea0de07e92ab.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La fragua (The Forge) (2024)" tvg-logo="" group-title="",La fragua (The Forge) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="La fragua (The Forge) (2024)" tvg-logo="" group-title="ES 2024",La fragua (The Forge) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/f1aa1f50-7647-4f09-bbb3-ad3498f7ac26.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La sociedad americana de negros mágicos (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/9NcwZYTErGSS7jzRDYPTjQOCQe3.jpg" group-title="",La sociedad americana de negros mágicos (2024)
+#EXTINF:-1 tvg-id="" tvg-name="La sociedad americana de negros mágicos (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/9NcwZYTErGSS7jzRDYPTjQOCQe3.jpg" group-title="ES 2024",La sociedad americana de negros mágicos (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/144c579c-e71e-4140-b922-61ee96eb62ca.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La trampa (Trap) (2024)" tvg-logo="" group-title="",La trampa (Trap) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="La trampa (Trap) (2024)" tvg-logo="" group-title="ES 2024",La trampa (Trap) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/6dfdaaa9-d31e-49a9-9cab-55e99f77fc5c.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La virgen roja (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/bG0EV4nQcSTsdI0RfC9RbvUGnCg.jpg" group-title="",La virgen roja (2024)
+#EXTINF:-1 tvg-id="" tvg-name="La virgen roja (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/bG0EV4nQcSTsdI0RfC9RbvUGnCg.jpg" group-title="ES 2024",La virgen roja (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/627560a0-5b84-41d9-9002-22f58f030996.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lisa Frankenstein (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/5US9yKtf3STseAhYawGAnRH75S3.jpg" group-title="",Lisa Frankenstein (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Lisa Frankenstein (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/5US9yKtf3STseAhYawGAnRH75S3.jpg" group-title="ES 2024",Lisa Frankenstein (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/1c67408f-c352-4970-ab25-0df539dbc985.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Longlegs (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/tMdOL2d6bTv2ZhRbbUuNBrRAZ1G.jpg" group-title="",Longlegs (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Longlegs (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/tMdOL2d6bTv2ZhRbbUuNBrRAZ1G.jpg" group-title="ES 2024",Longlegs (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/e7f6d4ed-cae7-4dda-8cb6-822affd43b09.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lo poco que me queda (Running on Empty) (2024)" tvg-logo="" group-title="",Lo poco que me queda (Running on Empty) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Lo poco que me queda (Running on Empty) (2024)" tvg-logo="" group-title="ES 2024",Lo poco que me queda (Running on Empty) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/e1422bd5-69f4-4a95-9d14-6e836b175ec7.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los horrores de Caddo Lake (2024)" tvg-logo="" group-title="",Los horrores de Caddo Lake (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Los horrores de Caddo Lake (2024)" tvg-logo="" group-title="ES 2024",Los horrores de Caddo Lake (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/b61885be-d252-4f30-8c77-429f6ad9e47c.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los instigadores (The Instigators) (2024)" tvg-logo="" group-title="",Los instigadores (The Instigators) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Los instigadores (The Instigators) (2024)" tvg-logo="" group-title="ES 2024",Los instigadores (The Instigators) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/5cf078a2-8bc5-46b4-a00a-266932cf4cfd.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mala Persona (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/bpgokfsdcblhsdNEcbvWfunkAIq.jpg" group-title="",Mala Persona (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Mala Persona (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/bpgokfsdcblhsdNEcbvWfunkAIq.jpg" group-title="ES 2024",Mala Persona (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/640f13ac-8757-4eba-ac1e-ceca4c6cfff8.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Matalos a todos 2 (Kill Em All 2) (2024)" tvg-logo="" group-title="",Matalos a todos 2 (Kill Em All 2) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Matalos a todos 2 (Kill Em All 2) (2024)" tvg-logo="" group-title="ES 2024",Matalos a todos 2 (Kill Em All 2) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/ce11daf4-8f06-4021-8b2d-0834fe3cabff.mkv
-#EXTINF:-1 tvg-id="" tvg-name="MaXXXine (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg" group-title="",MaXXXine (2024)
+#EXTINF:-1 tvg-id="" tvg-name="MaXXXine (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg" group-title="ES 2024",MaXXXine (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/71323820-6ebd-4a9b-9fba-0f893f663271.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mercenaria (Dominique) (2024)" tvg-logo="" group-title="",Mercenaria (Dominique) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Mercenaria (Dominique) (2024)" tvg-logo="" group-title="ES 2024",Mercenaria (Dominique) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/af3649b2-94ff-4e36-a6f6-8abbabc23176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monsternado (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/txA4srjcxa4HiWEaMyrNtWHbR5a.jpg" group-title="",Monsternado (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Monsternado (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/txA4srjcxa4HiWEaMyrNtWHbR5a.jpg" group-title="ES 2024",Monsternado (2023)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/757dcb97-6b89-4268-b3a7-7ec67c10feab.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Niégalo siempre (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/u2BiUdrGx4SFODn8Ug6b5c81cMG.jpg" group-title="",Niégalo siempre (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Niégalo siempre (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/u2BiUdrGx4SFODn8Ug6b5c81cMG.jpg" group-title="ES 2024",Niégalo siempre (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/f7ea8630-eb21-485a-aa29-f7b9bc3f1d1a.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nina (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/vGBMCxCYkQ3SrvMuCMvBSvbxPNK.jpg" group-title="",Nina (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Nina (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/vGBMCxCYkQ3SrvMuCMvBSvbxPNK.jpg" group-title="ES 2024",Nina (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/6ac1b9d9-3154-414c-a8ff-be0e777e581c.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No hables con extranos (Speak No Evil) (2024)" tvg-logo="" group-title="",No hables con extranos (Speak No Evil) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="No hables con extranos (Speak No Evil) (2024)" tvg-logo="" group-title="ES 2024",No hables con extranos (Speak No Evil) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/2195faeb-6774-41f5-ab33-5b4f3d6c6c4f.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Odio el verano (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/jc5or9heMIJlhMsOZdqYyks6jCk.jpg" group-title="",Odio el verano (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Odio el verano (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/jc5or9heMIJlhMsOZdqYyks6jCk.jpg" group-title="ES 2024",Odio el verano (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/7719e4c5-939c-44c9-ac22-09ad3981e771.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Parpadea dos veces (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/iby8dze3UNZIJnOOgoEUWbEEOtK.jpg" group-title="",Parpadea dos veces (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Parpadea dos veces (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/iby8dze3UNZIJnOOgoEUWbEEOtK.jpg" group-title="ES 2024",Parpadea dos veces (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/9e050261-55d8-4b75-8863-9dfa0969f5a4.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peques (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/eFe1Yw3VbYdcl1Qvi71nZ2prPlE.jpg" group-title="",Peques (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Peques (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/eFe1Yw3VbYdcl1Qvi71nZ2prPlE.jpg" group-title="ES 2024",Peques (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/b86466cd-151c-480d-b4e2-947211fd8446.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Prey (Kalahari) (2024)" tvg-logo="" group-title="",Prey (Kalahari) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Prey (Kalahari) (2024)" tvg-logo="" group-title="ES 2024",Prey (Kalahari) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/cad3051a-64e6-4c48-a043-68503fef050e.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Red clasificada (Classified) (2023)" tvg-logo="" group-title="",Red clasificada (Classified) (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Red clasificada (Classified) (2023)" tvg-logo="" group-title="ES 2024",Red clasificada (Classified) (2023)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/8cb56d28-ddf9-492a-95d1-82f48178b67a.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Romper el círculo (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/e0S9UXyuHE1JAoHZmyqRJISpyoS.jpg" group-title="",Romper el círculo (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Romper el círculo (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/e0S9UXyuHE1JAoHZmyqRJISpyoS.jpg" group-title="ES 2024",Romper el círculo (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/95f6a58f-ddc5-40af-b897-abf64a7794a7.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sangre en los labios (Love Lies Bleeding) (2024)" tvg-logo="" group-title="",Sangre en los labios (Love Lies Bleeding) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Sangre en los labios (Love Lies Bleeding) (2024)" tvg-logo="" group-title="ES 2024",Sangre en los labios (Love Lies Bleeding) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/e2bd4931-359f-4643-bfc2-a4f0d2b97e61.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Saturday Night (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/86EtkVtsVgHUCxX6xDzXNNxJIeh.jpg" group-title="",Saturday Night (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Saturday Night (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/86EtkVtsVgHUCxX6xDzXNNxJIeh.jpg" group-title="ES 2024",Saturday Night (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/fac86fe5-6e36-45f8-8bf8-30ac1ac654aa.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Segundo premio (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/e2eQxBsDxoqpaYUy5yZosvrBuVz.jpg" group-title="",Segundo premio (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Segundo premio (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/e2eQxBsDxoqpaYUy5yZosvrBuVz.jpg" group-title="ES 2024",Segundo premio (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/2514769c-d8ae-41c4-b0a4-c6c56963e5ea.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Siempre jovenes (Arthurs Whisky) (2023)" tvg-logo="" group-title="",Siempre jovenes (Arthurs Whisky) (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Siempre jovenes (Arthurs Whisky) (2023)" tvg-logo="" group-title="ES 2024",Siempre jovenes (Arthurs Whisky) (2023)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/4b544cca-e9c5-4eb4-8dfe-24ded3962d76.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Skincare (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/ikPzv7el0RcBhtXj3ElCoH54icd.jpg" group-title="",Skincare (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Skincare (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/ikPzv7el0RcBhtXj3ElCoH54icd.jpg" group-title="ES 2024",Skincare (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/6c403596-73ae-4710-ae38-9cc0b4e03dc8.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sombras del pasado (Sleeping Dogs) (2024)" tvg-logo="" group-title="",Sombras del pasado (Sleeping Dogs) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Sombras del pasado (Sleeping Dogs) (2024)" tvg-logo="" group-title="ES 2024",Sombras del pasado (Sleeping Dogs) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/8aeaa74d-311d-4758-9b43-8e61f59051a0.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Strangers: Capítulo 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/1rTRllZNEAX30dTxYL1hONR6gPj.jpg" group-title="",Strangers: Capítulo 1 (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Strangers: Capítulo 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/1rTRllZNEAX30dTxYL1hONR6gPj.jpg" group-title="ES 2024",Strangers: Capítulo 1 (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/433c598b-41f6-435d-a269-cace07d74e83.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sucedió en Roma (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/6OzUKFrKS0uPaj6At5Jcbhu44Jo.jpg" group-title="",Sucedió en Roma (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Sucedió en Roma (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/6OzUKFrKS0uPaj6At5Jcbhu44Jo.jpg" group-title="ES 2024",Sucedió en Roma (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/e9666806-9076-4e4a-9e7f-15cf81f86333.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sweethearts (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/890UDXYal6i8A9NbMV5TAxZpOzH.jpg" group-title="",Sweethearts (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Sweethearts (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/890UDXYal6i8A9NbMV5TAxZpOzH.jpg" group-title="ES 2024",Sweethearts (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/ac2f8ef6-5d0d-466a-b7db-0cbd969c527b.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terrifier 3 (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg" group-title="",Terrifier 3 (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Terrifier 3 (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg" group-title="ES 2024",Terrifier 3 (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/3cad8b93-b735-413d-81eb-4508cf0680f1.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Outrun (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/zLY7SeTTYSYq6X7KHZSqvDsdOHn.jpg" group-title="",The Outrun (2024)
+#EXTINF:-1 tvg-id="" tvg-name="The Outrun (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/zLY7SeTTYSYq6X7KHZSqvDsdOHn.jpg" group-title="ES 2024",The Outrun (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/62407ef0-725c-462e-86c2-455aadbf4dd2.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tu madre o la mía: Guerra de suegras (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/cPeFaSGkPGfq8Mcs6ebWWzZDYiK.jpg" group-title="",Tu madre o la mía: Guerra de suegras (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Tu madre o la mía: Guerra de suegras (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/cPeFaSGkPGfq8Mcs6ebWWzZDYiK.jpg" group-title="ES 2024",Tu madre o la mía: Guerra de suegras (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/6bc5a003-f1da-4d24-a9df-eef7ee288542.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Twisters (Tornados) (2024)" tvg-logo="" group-title="",Twisters (Tornados) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Twisters (Tornados) (2024)" tvg-logo="" group-title="ES 2024",Twisters (Tornados) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/32d0050d-3ee7-49ea-a7e9-d07cda653ead.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una mujer italiana (Cabrini) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/lQziV6stVMBsi6snbyrlRa0WWue.jpg" group-title="",Una mujer italiana (Cabrini) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Una mujer italiana (Cabrini) (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/lQziV6stVMBsi6snbyrlRa0WWue.jpg" group-title="ES 2024",Una mujer italiana (Cabrini) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/a5dbca67-9fbd-474c-89dd-570aa2c64fb1.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un desastre es para siempre (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/ihQ1xJE0niC6y72VMmcxbZE5EGe.jpg" group-title="",Un desastre es para siempre (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Un desastre es para siempre (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/ihQ1xJE0niC6y72VMmcxbZE5EGe.jpg" group-title="ES 2024",Un desastre es para siempre (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/eb184220-4a4d-44fe-b5e5-df16800b7d33.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vidas perfectas (Mothers Instinct) (2024)" tvg-logo="" group-title="",Vidas perfectas (Mothers Instinct) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Vidas perfectas (Mothers Instinct) (2024)" tvg-logo="" group-title="ES 2024",Vidas perfectas (Mothers Instinct) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/5acb38c4-eb2b-410e-88c5-65aff20cce19.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vi el brillo del televisor (I Saw the TV Glow) (2024)" tvg-logo="" group-title="",Vi el brillo del televisor (I Saw the TV Glow) (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Vi el brillo del televisor (I Saw the TV Glow) (2024)" tvg-logo="" group-title="ES 2024",Vi el brillo del televisor (I Saw the TV Glow) (2024)
 http://k4.oct29freego.top:80/movie/apr46257389/55136126/c6cdc3c3-4df7-4f46-89e1-8ec173b83dda.mkv
